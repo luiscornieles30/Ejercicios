@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+// El siguente ejercicio contiene una estructura repetitiva.
 int main() {
     float sueldobase= 100.07; float sueldototal=0;
     int ventas= 0; int comision=0;

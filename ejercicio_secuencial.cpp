@@ -2,6 +2,7 @@
 #include <string>
 #include <ctime>
 #include <cstdlib>
+// El siguente ejercicio contiene una estructura secuencial.
 int main()
  {
     float carro= 0; float impuesto= 0; float ganancia=0; float precioreal=0; 
