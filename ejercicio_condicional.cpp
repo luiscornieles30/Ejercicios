@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace;
+using namespace std;
 // El siguente ejercicio contiene una estructura condicional.
 int main() {
   int minutos= 0;
