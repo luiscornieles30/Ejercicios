@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace;
+using namespace std;
 // El siguente ejercicio contiene una estructura repetitiva.
 int main() {
     float sueldobase= 100.07; float sueldototal=0;
